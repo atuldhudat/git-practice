@@ -1,1 +1,1 @@
-new text of abc file
+new text of abc file | new text file 2
